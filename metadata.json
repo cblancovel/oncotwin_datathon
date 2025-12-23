@@ -1,0 +1,7 @@
+{
+  "name": "ONCOTWIN Event Hub",
+  "description": "A professional event landing page for the ONCOTWIN Synthetic Oncology Data Challenge, featuring program details, speaker bios, and an AI-powered event assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
